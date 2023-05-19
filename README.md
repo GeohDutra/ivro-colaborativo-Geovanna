@@ -1,2 +1,2 @@
-# ivro-colaborativo-Geovanna
+# livro-colaborativo-Geovanna
 Meu primeiro livro colaborativo
